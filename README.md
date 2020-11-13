@@ -4,10 +4,11 @@ Mini Project 4
 
 This is a basic weather app using the OpenWeatherMap API.
 
-![Screenshot 1](Darksky 1.png) </br>
+![Screenshot 1](Darksky1.png) </br>
+This screenshot shows the homescreen of the app, with the current weather anda the hourly forecast for 24 hours.
 
-![Screenshot 2](Darksky 2.png) </br>
-This is the screen where users can type in their filters. All values outside the lower bound will return 0 and outside the upper bound will return 255.
+![Screenshot 2](Darksky2.png) </br>
+This screenshot shows the weather history for the last five days, the max for the free version of the API
 
-![Screenshot 3](Darksky 3.png)</br>
-This is a sample screen showing the details of a selected Pokemon. The background color changes accordingly with the type.
+![Screenshot 3](Darksky3.png)</br>
+This screenshot shows the weather forecast for the next seven days, giving the min and max temperatures
